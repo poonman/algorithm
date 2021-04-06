@@ -38,6 +38,7 @@ for i := 0; i < n; i++ {
 代码书写正确，能够灵活应用 stack 等，给 3 分；
 ACM 同学最多得 3 分，非 ACM 同学可以参考题目解答时间和代码规范性给 3.5 分；*/
 
+
 type Node struct {
 	Index int
 	Value int
